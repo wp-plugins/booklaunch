@@ -12,7 +12,7 @@ This is a Wordpress plugin for Premium Booklaunch users that lets you display yo
 
 == Description ==
 
-## Installation & Use
+= Installation & Use =
 
 1. Download
 1. Unzip the folder and drag it into your Wordpress `wp-content/plugins` directory.
@@ -40,7 +40,7 @@ This is a Wordpress plugin for Premium Booklaunch users that lets you display yo
 
 = Why won't my Booklaunch page display properly? =
 
-In order for the plugin to work you must be a [Premium Booklaunch.io user](https://booklaunch.io/settings/pricing).
+In order for the plugin to work, you must be a [Premium Booklaunch.io user](https://booklaunch.io/settings/pricing).
 
 == Changelog ==
 
