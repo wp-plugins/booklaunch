@@ -125,7 +125,6 @@ function add_booklaunch_meta( $object ) {
 	/* Add meta boxes on the 'add_meta_boxes' hook. */
 	add_action( 'add_meta_boxes', 'booklaunch_add_post_meta_boxes' );
 	
-	
 	add_action( 'save_post', 'booklaunch_save_post_class_meta', 10, 2 );
 	
 	function booklaunch_add_post_meta_boxes() {
@@ -135,7 +134,7 @@ function add_booklaunch_meta( $object ) {
 			'Booklaunch Page Options',
 			'booklaunch_post_class_meta_box',
 			'page',
-			'high',
+			'normal',
 			'default'
 		);
 		
