@@ -30,7 +30,8 @@ This plugin requires Wordpress' "Custom Page Template" feature to work normally.
 
 = Contact =
 
-Need help? Experiencing issues? Email us any time at [help@booklaunch.io](mailto:help@booklaunch.io?subject=Booklaunch For Wordpress)
+Need help? Experiencing issues? Email us any time at [help@booklaunch.io](mailto:help@booklaunch.io)
+
 
 == Installation ==
 
