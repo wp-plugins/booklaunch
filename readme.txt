@@ -2,7 +2,7 @@
 Contributors: garrettboatman
 Donate link: http://booklaunch.io
 Tags: booklaunch
-Requires at least: 3.0.1
+Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.0.2
 License: GPLv2
@@ -24,6 +24,10 @@ This is a Wordpress plugin for Premium Booklaunch users that lets you display yo
 1. Paste your Booklaunch page URL into the input field. For example, `https://booklaunch.io/scottrodgers/onedecisionbook`
 1. Publish the Wordpress page and share your new Booklaunch URL.
 
+= Requirements =
+
+This plugin requires Wordpress' "Custom Page Template" feature to work normally. This core feature is enabled by standard in 99% of Wordpress themes, however, some themes (like [Thesis](http://diythemes.com/)) disable this functionality and are not compatible with the Booklaunch.io plugin. 
+
 == Installation ==
 
 1. Download
@@ -41,6 +45,10 @@ This is a Wordpress plugin for Premium Booklaunch users that lets you display yo
 = Why won't my Booklaunch page display properly? =
 
 In order for the plugin to work, you must be a [Premium Booklaunch.io user](https://booklaunch.io/settings/pricing).
+
+= Why don't I see the Booklaunch meta box on my page edit screen?
+
+First, make sure your theme meets this plugin's [requirements](https://wordpress.org/plugins/booklaunch/). Then, make sure the Booklaunch Options are toggled on in the editor's "Screen Options" tab.
 
 == Changelog ==
 
