@@ -28,6 +28,10 @@ This is a Wordpress plugin for Premium Booklaunch users that lets you display yo
 
 This plugin requires Wordpress' "Custom Page Template" feature to work normally. This core feature is enabled by standard in 99% of Wordpress themes, however, some themes (like [Thesis](http://diythemes.com/)) disable this functionality and are not compatible with the Booklaunch.io plugin. 
 
+= Contact =
+
+Need help? Experiencing issues? Email us any time at [help@booklaunch.io](mailto:help@booklaunch.io?subject=Booklaunch For Wordpress)
+
 == Installation ==
 
 1. Download
@@ -46,9 +50,10 @@ This plugin requires Wordpress' "Custom Page Template" feature to work normally.
 
 In order for the plugin to work, you must be a [Premium Booklaunch.io user](https://booklaunch.io/settings/pricing).
 
-= Why don't I see the Booklaunch meta box on my page edit screen?
+= Why don't I see the Booklaunch meta box on my page edit screen? =
 
-First, make sure your theme meets this plugin's [requirements](https://wordpress.org/plugins/booklaunch/). Then, make sure the Booklaunch Options are toggled on in the editor's "Screen Options" tab.
+* Make sure your theme meets this plugin's [requirements](https://wordpress.org/plugins/booklaunch/). 
+* Make sure the Booklaunch Options are toggled on in the editor's "Screen Options" tab.
 
 == Changelog ==
 
