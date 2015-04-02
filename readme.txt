@@ -4,7 +4,7 @@ Donate link: http://booklaunch.io
 Tags: booklaunch
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,12 @@ This is a Wordpress plugin for Premium Booklaunch users that lets you display yo
 In order for the plugin to work, you must be a [Premium Booklaunch.io user](https://booklaunch.io/settings/pricing).
 
 == Changelog ==
+
+= 1.0.3 =
+* Fixes mobile responsive
+
+= 1.0.2 =
+* Fixes meta box display bug while adding new pages.
 
 = 1.0.1 =
 * Fixes meta box display bug.
