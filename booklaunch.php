@@ -3,7 +3,7 @@
    Plugin Name: Booklaunch for Wordpress
    Plugin URI: https://booklaunch.io
    Description: A plugin that integrates your Booklaunch page as a page template on your Wordpress website.
-   Version: 1.0
+   Version: 1.0.4
    Author: The Booklaunch Team
    Author URI: https://booklaunch.io
    License: GPL2
@@ -118,6 +118,8 @@ class PageTemplater {
 add_action( 'plugins_loaded', array( 'PageTemplater', 'get_instance' ) );
 
 add_action( 'load-post.php', 'add_booklaunch_meta' );
+add_action( 'load-post-new.php', 'add_booklaunch_meta' );
+
 
 /* Meta box setup function. */
 function add_booklaunch_meta( $object ) {
